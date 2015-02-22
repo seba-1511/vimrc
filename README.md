@@ -1,3 +1,12 @@
+### Séb's Reminders:
+* gg=G : Autoindent files
+* :vsp <filname> : Verical split screen with new filename
+* /<search> : Search file
+* :! <cmd> : executes <cmd> in terminal
+* Select a word in visual mode and hit * or # to search backwards/forwards
+* . repeats the last action you did
+* Try :NERDTree for a lot of fun
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
