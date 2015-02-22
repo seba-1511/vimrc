@@ -6,6 +6,7 @@
 * Select a word in visual mode and hit * or # to search backwards/forwards
 * . repeats the last action you did
 * Try :NERDTree for a lot of fun
+* :Autoformat does that, and :Syntastic<tab> shows what is wrong in a file.
 
 # The Ultimate vimrc
 
