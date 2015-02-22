@@ -11,5 +11,8 @@ try
 source ~/.vim_runtime/my_configs.vim
 catch
 endtry' > ~/.vimrc
+mkdir ~/.vim
+mkdir ~/.vim/colors
+cp ~/.vim_runtime/molokai.vim ~/.vim/colors
 
 echo "Installed the Ultimate Vim configuration successfully! Enjoy :-)"
