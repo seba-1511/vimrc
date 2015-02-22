@@ -37,9 +37,9 @@ if has("gui_running")
     colorscheme molokai
 else
     colorscheme desert
-    let g:colors_name="desert"
+    let g:colors_name="molokai"
 endif
-
+let g:rehash256 = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
