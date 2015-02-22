@@ -4,6 +4,8 @@
 * /<search> : Search file
 * :! <cmd> : executes <cmd> in terminal
 * Select a word in visual mode and hit * or # to search backwards/forwards
+* . repeats the last action you did
+* Try :NERDTree for a lot of fun
 
 # The Ultimate vimrc
 
